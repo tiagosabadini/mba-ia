@@ -23,12 +23,12 @@ Se você também quer aprender IA aplicada sem pagar MBA, siga junto.
 | Fase | Período | Conteúdo |
 |------|---------|----------|
 | [Fase 1](#fase-1---fundamentos-de-ia-generativa) | Meses 1–2 | Fundamentos de IA Generativa + Prompt Engineering |
-| [Fase 2](#fase-2-arquitetura-desenvolvimento) | Meses 3–5 | Arquitetura na Era da IA + Design Docs + Dev com IA |
-| [Fase 3](#fase-3-desenvolvimento-agêntico) | Meses 6–8 | Agentic Coding + Aplicações com IA + Agentes |
-| [Fase 4](#fase-4-protocolos-devops) | Meses 9–10 | Protocolos MCP & A2A + DevOps & SRE com IA |
-| [Fase 5](#fase-5-fine-tuning-uxui) | Meses 11–12 | Fine-Tuning de Modelos + IA para UX/UI |
-| [Fase 6](#fase-6-governança-gestão) | Mês 13 | Segurança & Governança + Gestão de Projetos com IA |
-| [Fase 7](#fase-7-carreira-projeto-capstone) | Mês 14 | Carreira, entrevistas e Projeto Capstone |
+| [Fase 2](#fase-2---arquitetura-desenvolvimento) | Meses 3–5 | Arquitetura na Era da IA + Design Docs + Dev com IA |
+| [Fase 3](#fase-3---desenvolvimento-agêntico) | Meses 6–8 | Agentic Coding + Aplicações com IA + Agentes |
+| [Fase 4](#fase-4---protocolos-devops) | Meses 9–10 | Protocolos MCP & A2A + DevOps & SRE com IA |
+| [Fase 5](#fase-5---fine-tuning-uxui) | Meses 11–12 | Fine-Tuning de Modelos + IA para UX/UI |
+| [Fase 6](#fase-6---governança-gestão) | Mês 13 | Segurança & Governança + Gestão de Projetos com IA |
+| [Fase 7](#fase-7---carreira-projeto-capstone) | Mês 14 | Carreira, entrevistas e Projeto Capstone |
 
 **Carga:** ~8h/semana · 
 
