@@ -22,7 +22,7 @@ Se você também quer aprender IA aplicada sem pagar MBA, siga junto.
 
 | Fase | Período | Conteúdo |
 |------|---------|----------|
-| [Fase 1](#fase-1-fundamentos-de-ia-generativa) | Meses 1–2 | Fundamentos de IA Generativa + Prompt Engineering |
+| [Fase 1](#fase-1---fundamentos-de-ia-generativa) | Meses 1–2 | Fundamentos de IA Generativa + Prompt Engineering |
 | [Fase 2](#fase-2-arquitetura-desenvolvimento) | Meses 3–5 | Arquitetura na Era da IA + Design Docs + Dev com IA |
 | [Fase 3](#fase-3-desenvolvimento-agêntico) | Meses 6–8 | Agentic Coding + Aplicações com IA + Agentes |
 | [Fase 4](#fase-4-protocolos-devops) | Meses 9–10 | Protocolos MCP & A2A + DevOps & SRE com IA |
