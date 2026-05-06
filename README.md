@@ -32,7 +32,7 @@ Se você também quer aprender IA aplicada sem pagar MBA, siga junto.
 
 **Carga:** ~8h/semana · 
 
-**Custo:** grátis a ~R$1.600,00 total · 
+**Custo:** grátis a ~R$1.000,00 total de orçamento · 
 
 **Algumas Fontes:** 
 * [Asimov Academy](https://asimov.academy)
