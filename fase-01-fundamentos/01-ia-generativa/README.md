@@ -57,10 +57,6 @@ Posts e anotações escritos a partir do que aprendi neste módulo:
 - [Onde você está no mapa da IA?](https://tiagosabadini.substack.com/p/onde-voce-esta-no-mapa-da-ia?utm_source=github)
 - [A ideia que tive em 2020 foi resolvida pela IA. Sem a minha participação.](https://tiagosabadini.substack.com/p/a-ideia-que-tive-em-2020-foi-resolvida?utm_source=github)
 - [O que faz um LLM se tornar um Claude ou um ChatGPT afinal?](https://tiagosabadini.substack.com/p/o-que-faz-um-llm-se-tornar-um-claude?utm_source=github)
-- [Sabe o seu histórico de bugs e decisões ruins? Isso pode virar vantagem agora.](https://tiagosabadini.substack.com/p/sabe-o-seu-historico-de-bugs-e-decisoes?utm_source=github)
-- [Engenharia de prompt: o nome chique pra se comunicar direito](https://tiagosabadini.substack.com/p/engenharia-de-prompt-o-nome-chique?utm_source=github)
-- [Post 1: 3 prompts pra descobrir se sua ideia de negócio tem futuro](https://tiagosabadini.substack.com/p/3-prompts-pra-descobrir-se-sua-ideia?utm_source=github)
-- [Post 2: Defina ICP, Persona e Jornada de Compra. Com 3 prompts prontos pra usar](https://tiagosabadini.substack.com/p/defina-icp-persona-e-jornada-de-compra?utm_source=github)
 - [Resolvi um problema chato de corredor amador. Virou meu primeiro projeto de IA.](https://tiagosabadini.substack.com/p/resolvi-um-problema-chato-de-corredor?utm_source=github)
 - [Por que usei CNN e não RNN para reconhecer meu rosto em 700 fotos de corrida](https://tiagosabadini.substack.com/p/por-que-usei-cnn-e-nao-rnn-para-reconhecer?utm_source=github)
 
