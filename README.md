@@ -2,7 +2,7 @@
 
 > Jornada de 14 meses aprendendo IA aplicada de forma estruturada e documentada em público.
 
-Sou dev sênior com 15+ anos de experiência, cofounder da [Byecar](https://byecar.com.br) e [Itgo Solutions](https://itgo.solutions) . Decidi documentar publicamente o processo de me aprofundar em IA aplicada com a mesma seriedade com que construí produto até aqui.
+Sou dev sênior com 15+ anos de experiência, cofounder da [Byecar](https://byecar.com.br) e [Itgo Solutions](https://itgo.solutions). Decidi documentar publicamente o processo de me aprofundar em IA aplicada com a mesma seriedade com que construí produto até aqui.
 
 Pessoal é importante esclarecer que não sou guru de internet e não sou iniciante também. Já construi algumas coisas e estou me aprofundando de forma estruturada no estudo da integração de Inteligência Artificial no desenvolvimento de software e produto. Vou documentar tudo que funciona (e o que não funciona) no caminho.
 
@@ -30,11 +30,11 @@ Se você também quer aprender IA aplicada sem pagar MBA, siga junto.
 | [Fase 6](#fase-6---governança--gestão) | Mês 13 | Segurança & Governança + Gestão de Projetos com IA |
 | [Fase 7](#fase-7---carreira--projeto-capstone) | Mês 14 | Carreira, entrevistas e Projeto Capstone |
 
-**Carga:** ~8h/semana · 
+**Carga:** ~8h/semana
 
-**Custo:** grátis a ~R$1.000,00 total de orçamento · 
+**Custo:** grátis a ~R$1.000,00 total de orçamento
 
-**Algumas Fontes:** 
+**Algumas fontes:**
 * [Asimov Academy](https://asimov.academy)
 * [Coursera](https://coursera.org)
 * [FullCycle](https://fullcycle.com.br/)
@@ -48,31 +48,17 @@ Se você também quer aprender IA aplicada sem pagar MBA, siga junto.
 
 ### [01 - Fundamentos de IA Generativa](./fase-01-fundamentos/01-ia-generativa/)
 
-LLMs, embeddings, tokenização, transformers. Como um modelo de linguagem realmente funciona.
-
-**Recursos principais:**
-- Asimov Academy - Módulo de IA Generativa ⭐ fonte principal
-- Andrej Karpathy - ["Intro to LLMs"](https://www.youtube.com/watch?v=zjkBMFhNj_g) (YouTube, ~1h, denso)
-- Andrej Karpathy - ["Let's build GPT from scratch"](https://www.youtube.com/watch?v=kCc8FmEb1nY) (YouTube)
-- Artigo - ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762) (arXiv)
-- [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course) - gratuito
-
-**Prática:** Rodar Ollama local com LLaMA 3 ou Mistral, explorar temperatura e top-k.
-
----
+- A barreira de entrada para construir software caiu muito. O que custava meses e uma equipe na época da Byecar hoje é questão de dias — às vezes horas. Isso não é exagero, é o que eu vivi.
+- Isso gera oportunidade e desafio ao mesmo tempo. A oportunidade é óbvia. O desafio é que todo mundo tem acesso à mesma alavanca — a diferença vai continuar sendo quem sabe o que construir, não só como construir.
+- Pensei bastante sobre até onde delegar para a IA. Minha conclusão: é a mesma decisão de delegar para um colaborador. Líder que não delega não escala. A questão não é "devo usar IA?" — é "o que faz sentido eu continuar fazendo eu mesmo?".
+- O boom de "empresa autônoma com IA" no LinkedIn tem muito ruído. Mas automatizar partes relevantes de um negócio já é real e acessível. São coisas diferentes e vale separar.
 
 ### [02 - Prompt Engineering](./fase-01-fundamentos/02-prompt-engineering/)
 
-Chain-of-Thought, few-shot, ReAct, estruturação de contexto, biblioteca de prompts.
-
-**Recursos principais:**
-- Asimov Academy - Módulo de Prompt Engineering ⭐ fonte principal
-- DeepLearning.AI - ["ChatGPT Prompt Engineering for Developers"](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - gratuito
-- [Anthropic — Guia de Prompt Engineering](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview) - gratuito
-- [Learnprompting.org](https://learnprompting.org) - gratuito
-- Artigo - ["ReAct: Synergizing Reasoning and Acting in LLMs"](https://arxiv.org/abs/2210.03629) (arXiv)
-
-**Prática:** Repositório pessoal de prompts organizados por tipo. Leitura do OWASP LLM Top 10.
+- Testar em modelos locais menores (LLaVA 7B, Mistral) foi a melhor decisão deste módulo. Modelos pequenos conseguem simular raciocínio com CoT — seguem o processo, mas entregam resultado errado quando o conhecimento simplesmente não está no modelo. Nos modelos grandes essa distinção fica mascarada.
+- ReAct foi o experimento mais revelador. Ver um modelo pequeno expandir sua capacidade real através de raciocínio + ação deixou claro por que isso importa em aplicações — não é só uma técnica acadêmica.
+- Prompt engineering não é só para usar Claude ou ChatGPT no dia a dia. É a base de qualquer aplicação que chama uma LLM. A qualidade do prompt é a qualidade do output — isso vale tanto para uma interface quanto para um sistema em produção.
+- Construir bem um prompt é estender sua capacidade de produção. Não é atalho, é alavanca — e tem limite onde começa o fine-tuning.
 
 ---
 
@@ -118,7 +104,7 @@ Chain-of-Thought, few-shot, ReAct, estruturação de contexto, biblioteca de pro
 
 ## Fase 7 - Carreira & Projeto Capstone
 
-**Período:** Mês 14 · *Posicionamento e consolidação aprendizado.*
+**Período:** Mês 14 · *Posicionamento e consolidação do aprendizado.*
 
 > Em construção
 
@@ -139,7 +125,7 @@ Chain-of-Thought, few-shot, ReAct, estruturação de contexto, biblioteca de pro
 ## Acompanhe a jornada
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/tiago-sabadini)
-- 🏢 [Substack](https://substack.com/@tiagosabadini) - posts semanais sobre o que estou aprendendo
+- 🏢 [Substack](https://substack.com/@tiagosabadini) — posts semanais sobre o que estou aprendendo
 
 ---
 
