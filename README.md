@@ -48,17 +48,29 @@ Se você também quer aprender IA aplicada sem pagar MBA, siga junto.
 
 ### [01 - Fundamentos de IA Generativa](./fase-01-fundamentos/01-ia-generativa/)
 
-- A barreira de entrada para construir software caiu muito. O que custava meses e uma equipe na época da Byecar hoje é questão de dias — às vezes horas. Isso não é exagero, é o que eu vivi.
-- Isso gera oportunidade e desafio ao mesmo tempo. A oportunidade é óbvia. O desafio é que todo mundo tem acesso à mesma alavanca — a diferença vai continuar sendo quem sabe o que construir, não só como construir.
-- Pensei bastante sobre até onde delegar para a IA. Minha conclusão: é a mesma decisão de delegar para um colaborador. Líder que não delega não escala. A questão não é "devo usar IA?" — é "o que faz sentido eu continuar fazendo eu mesmo?".
+- A barreira de entrada para construir software caiu muito. O que custava meses e uma equipe de desenvolvimento hoje é questão de dias, às vezes horas. Isso não é exagero, é o que eu vivi.
+- Isso gera oportunidade e desafio ao mesmo tempo. A oportunidade é óbvia. O desafio é que todo mundo tem acesso à mesma alavanca, a diferença vai continuar sendo quem sabe o que construir, não só como construir.
+- Pensei bastante sobre até onde delegar para a IA. Minha conclusão: é a mesma decisão de delegar para um colaborador. Líder que não delega não escala. A questão não é "devo usar IA?" é "o que faz sentido eu continuar fazendo eu mesmo?".
 - O boom de "empresa autônoma com IA" no LinkedIn tem muito ruído. Mas automatizar partes relevantes de um negócio já é real e acessível. São coisas diferentes e vale separar.
 
 ### [02 - Prompt Engineering](./fase-01-fundamentos/02-prompt-engineering/)
 
-- Testar em modelos locais menores (LLaVA 7B, Mistral) foi a melhor decisão deste módulo. Modelos pequenos conseguem simular raciocínio com CoT — seguem o processo, mas entregam resultado errado quando o conhecimento simplesmente não está no modelo. Nos modelos grandes essa distinção fica mascarada.
-- ReAct foi o experimento mais revelador. Ver um modelo pequeno expandir sua capacidade real através de raciocínio + ação deixou claro por que isso importa em aplicações — não é só uma técnica acadêmica.
-- Prompt engineering não é só para usar Claude ou ChatGPT no dia a dia. É a base de qualquer aplicação que chama uma LLM. A qualidade do prompt é a qualidade do output — isso vale tanto para uma interface quanto para um sistema em produção.
-- Construir bem um prompt é estender sua capacidade de produção. Não é atalho, é alavanca — e tem limite onde começa o fine-tuning.
+- Testar em modelos locais menores (LLaVA 7B, Mistral) foi a melhor decisão deste módulo. 
+  Modelos pequenos conseguem simular raciocínio com CoT, seguem o processo, mas entregam 
+  resultado errado quando o conhecimento simplesmente não está no modelo. Isso deixa muito 
+  claro o que é técnica de prompt e o que é capacidade do modelo. Nos modelos grandes essa 
+  distinção fica mascarada.
+
+- ReAct foi o experimento mais revelador. Ver um modelo pequeno expandir sua capacidade 
+  real através de raciocínio + ação deixou claro por que isso importa em aplicações. 
+  Não é só uma técnica acadêmica.
+
+- Prompt engineering não é só para usar Claude ou ChatGPT no dia a dia. É a base de 
+  qualquer aplicação que chama uma LLM. A qualidade do prompt é a qualidade do output, 
+  isso vale tanto para uma interface quanto para um sistema em produção.
+
+- Construir bem um prompt é estender sua capacidade de produção. Não é atalho, 
+  é alavanca e tem limite onde começa o fine-tuning.
 
 ---
 
