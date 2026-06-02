@@ -32,10 +32,10 @@ Este módulo me surpreendeu bastante. Em vez de testar tudo no ChatGPT ou no Cla
 
 Posts e série de anotações escritos a partir do que aprendi neste módulo:
 
-- [Engenharia de prompt: o nome chique pra se comunicar direito]()
-- [#1 Série Engenharia de Prompts para negócios]()
-- [#2 Série Engenharia de Prompts para negócios]()
-- [Sabe o seu histórico de bugs e decisões ruins? Isso pode virar vantagem agora.]()
+- [Engenharia de prompt: o nome chique pra se comunicar direito](https://tiagosabadini.substack.com/p/engenharia-de-prompt-o-nome-chique?utm_source=github)
+- [Post 1: 3 prompts pra descobrir se sua ideia de negócio tem futuro](https://tiagosabadini.substack.com/p/3-prompts-pra-descobrir-se-sua-ideia?utm_source=github)
+- [Post 2: Defina ICP, Persona e Jornada de Compra. Com 3 prompts prontos pra usar](https://tiagosabadini.substack.com/p/defina-icp-persona-e-jornada-de-compra?utm_source=github)
+- [Sabe o seu histórico de bugs e decisões ruins? Isso pode virar vantagem agora.](https://tiagosabadini.substack.com/p/sabe-o-seu-historico-de-bugs-e-decisoes?utm_source=github)
 
 ---
 
